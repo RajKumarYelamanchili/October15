@@ -1,4 +1,4 @@
-package interviewprograms3;
+package interviewprograms4;
 
 public class DivModOperatorExample {
 
